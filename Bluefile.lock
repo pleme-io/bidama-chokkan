@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "bluefile_b3": "b3:bc641c8cc33d3bff2313b9f7eeae689df38535dc93c2717475becf3982eab995",
+  "manifest": {
+    "schema": 1,
+    "name": "bidama-chokkan",
+    "version": "0.1.0",
+    "needs": {},
+    "when": "anytime",
+    "sources": {},
+    "packages": [
+      "bidamas"
+    ],
+    "runs": {},
+    "tools": [],
+    "checks": {},
+    "apps": {},
+    "catalog": null
+  },
+  "sources": {}
+}
